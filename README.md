@@ -1,5 +1,5 @@
-# Reichenbach_et_al_2021
-Python scripts used for Reichenbach et al 2021 (https://doi.org/10.1101/2021.03.22.436393)
+# Reichenbach_et_al_2022
+Python scripts used for Reichenbach et al 2022 (DOI: 10.7554/eLife.72668)
 
 You can find here five Python scripts we used to analyse photometry data recorded with the RZ5P from TDT. These scripts are modified versions of example workbooks you can find on the TDT webpage (https://www.tdt.com/support/python-sdk/ ).
 
